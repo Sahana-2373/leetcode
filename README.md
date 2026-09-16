@@ -4,12 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sahana-2373/leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Sahana-2373/leetcode/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/Sahana-2373/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Sahana-2373/leetcode/tree/master/0229-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sahana-2373/leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Sahana-2373/leetcode/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/Sahana-2373/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Sahana-2373/leetcode/tree/master/0229-majority-element-ii) |
