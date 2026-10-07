@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Sahana-2373/leetcode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Sahana-2373/leetcode/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sahana-2373/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/Sahana-2373/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Sahana-2373/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sahana-2373/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Sahana-2373/leetcode/tree/master/0229-majority-element-ii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sahana-2373/leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Sahana-2373/leetcode/tree/master/0027-remove-element) |
+| [0189-rotate-array](https://github.com/Sahana-2373/leetcode/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
 | ------- |
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sahana-2373/leetcode/tree/master/0014-longest-common-prefix) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Sahana-2373/leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
