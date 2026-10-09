@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Sahana-2373/leetcode/tree/master/0009-palindrome-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/Sahana-2373/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Sahana-2373/leetcode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Sahana-2373/leetcode/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
