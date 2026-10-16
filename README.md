@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Sahana-2373/leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Sahana-2373/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Sahana-2373/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Sahana-2373/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sahana-2373/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sahana-2373/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Sahana-2373/leetcode/tree/master/1470-shuffle-the-array) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Sahana-2373/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Sahana-2373/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Sahana-2373/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Sahana-2373/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sahana-2373/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sahana-2373/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Sliding Window
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sahana-2373/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Sahana-2373/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Sahana-2373/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Sahana-2373/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Sahana-2373/leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Sahana-2373/leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Sahana-2373/leetcode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Sahana-2373/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Greedy
 |  |
 | ------- |
@@ -139,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Sahana-2373/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Sahana-2373/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
